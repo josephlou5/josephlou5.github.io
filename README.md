@@ -10,6 +10,7 @@ Other pages:
 | Planet X Searching | [/planet-x-searching][] | [github/planet-x-searching][] |
 | Planet X Finder    | [/planet-x-finder][]    | [github/planet-x-finder][]    |
 | Tip Calculator     | [/tip-calculator][]     | [github/tip-calculator][]     |
+| Formula Formatter  | [/formula-formatter][]  | [github/formula-formatter][]  |
 
 ## Cubing
 
@@ -27,4 +28,6 @@ trying to get better!), and I made a spreadsheet with fun stats:
 [github/planet-x-finder]: https://github.com/josephlou5/planet-x-finder
 [/tip-calculator]: https://josephlou5.github.io/tip-calculator/
 [github/tip-calculator]: https://github.com/josephlou5/tip-calculator
+[/formula-formatter]: https://josephlou5.github.io/formula-formatter/
+[github/formula-formatter]: https://github.com/josephlou5/formula-formatter
 [cubing spreadsheet]: https://docs.google.com/spreadsheets/d/e/2PACX-1vT05CD8t9PdQJjVDL-4BszJrIGWSZ5CHPzCAeTsUQqM0cCUHxmyePNmwuWjmjntRCAsgQiRAszizdbu/pubhtml
