@@ -11,6 +11,7 @@ Other pages:
 | Planet X Finder    | [/planet-x-finder][]    | [github/planet-x-finder][]    |
 | Tip Calculator     | [/tip-calculator][]     | [github/tip-calculator][]     |
 | Formula Formatter  | [/formula-formatter][]  | [github/formula-formatter][]  |
+| Score Calculators  | [/score-calculators][]  | [github/score-calculators][]  |
 
 ## Cubing
 
@@ -30,4 +31,6 @@ trying to get better!), and I made a spreadsheet with fun stats:
 [github/tip-calculator]: https://github.com/josephlou5/tip-calculator
 [/formula-formatter]: https://josephlou5.github.io/formula-formatter/
 [github/formula-formatter]: https://github.com/josephlou5/formula-formatter
+[/score-calculators]: https://josephlou5.github.io/score-calculators/
+[github/score-calculators]: https://github.com/josephlou5/score-calculators
 [cubing spreadsheet]: https://docs.google.com/spreadsheets/d/e/2PACX-1vT05CD8t9PdQJjVDL-4BszJrIGWSZ5CHPzCAeTsUQqM0cCUHxmyePNmwuWjmjntRCAsgQiRAszizdbu/pubhtml
