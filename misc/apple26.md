@@ -252,9 +252,9 @@ everything else), but i documented this anyway. you're welcome.
 
 # macOS 26 (Tahoe)
 
-i watched a 30 minute video so you wouldn't have to
+i watched a [30 minute video][macos26-features-youtube] so you wouldn't have to
 
-[macos-26-features-youtube]: https://www.youtube.com/watch?v=Xqa-PyY-oRU
+[macos26-features-youtube]: https://www.youtube.com/watch?v=Xqa-PyY-oRU
 
 ## general / important
 
