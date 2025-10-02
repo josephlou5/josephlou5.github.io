@@ -1,3 +1,33 @@
+Table of Contents
+
+- [iOS 26](#ios-26)
+  - [general / important](#general--important)
+  - [accessibility](#accessibility)
+  - [airpods](#airpods)
+  - [apple intelligence](#apple-intelligence)
+  - [battery](#battery)
+  - [camera](#camera)
+  - [control center](#control-center)
+  - [facetime](#facetime)
+  - [health / fitness](#health--fitness)
+  - [home screen](#home-screen)
+  - [keyboard](#keyboard)
+  - [lockscreen](#lockscreen)
+  - [messages](#messages)
+  - [music](#music)
+  - [phone](#phone)
+  - [photos](#photos)
+  - [podcasts](#podcasts)
+  - [wallet](#wallet)
+  - [other stuff](#other-stuff)
+- [macOS 26 (Tahoe)](#macos-26-tahoe)
+  - [general / important](#general--important-1)
+  - [finder](#finder)
+  - [menu bar / control center](#menu-bar--control-center)
+  - [shortcuts](#shortcuts)
+  - [spotlight](#spotlight)
+  - [other stuff](#other-stuff-1)
+
 # iOS 26
 
 i watched a [2 hour video][ios26-features-youtube] so you wouldn't have to

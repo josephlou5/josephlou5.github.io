@@ -1,3 +1,17 @@
+Table of Contents
+
+- [iOS 18](#ios-18)
+  - [lock screen](#lock-screen)
+  - [home screen](#home-screen)
+  - [control center](#control-center)
+  - [messages](#messages)
+  - [screen sharing](#screen-sharing)
+  - [airpods](#airpods)
+  - [camera](#camera)
+  - [photos](#photos)
+  - [notes](#notes)
+  - [others](#others)
+
 # iOS 18
 
 written september 2024
